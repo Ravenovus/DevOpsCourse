@@ -1,5 +1,5 @@
 
-
+<a href ="https://en.wikipedia.org/wiki/DevOps">link</a><br>
 <script type = "text/javascript">
         function pic1()
         {
@@ -27,5 +27,5 @@
 
 <input type="button"  value="Click me last!" onclick="pic3()"/> <br> <img src = "" style="width:550;height:600px;" id = "img3"/> <br> <br>
 
-<a href ="https://en.wikipedia.org/wiki/DevOps%22%3Elink</a> <br>
+
 
